@@ -1,7 +1,7 @@
 
 # Hi [clog10][website] here 👋
 
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/carlos_clog10?color=%231DA1F2&label=Carlos%20Loaeza&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/carlos_clog10)
 
 
 - 🔭 I’m currently working on ...
