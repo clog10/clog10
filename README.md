@@ -1,9 +1,7 @@
 
-# Hi [clog10][website] here 👋
+# Hi, [clog10][website] here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlos_clog10?color=%231DA1F2&label=Carlos%20Loaeza&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/carlos_clog10)
-
-
 
 <img src="https://github.com/clog10/clog10/blob/main/looney-tunes-bugs-bunny-rabbit-tuxedo-wallpaper-preview.jpg">
 
@@ -60,6 +58,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosloaeza100598@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-de-jesus-gutierrez-loaeza-86841318a/)
+
+
+[![Spotify](https://spotify-playing-9rkul6d4m.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-playing-9rkul6d4m)
 
 <!-- Sitio web al que nos dirijirá-->
 [website]: https://
