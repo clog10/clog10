@@ -8,8 +8,7 @@
 <img src="https://github.com/clog10/clog10/blob/main/looney-tunes-bugs-bunny-rabbit-tuxedo-wallpaper-preview.jpg">
 
 ## 🖥️ Jr Developer ⚔️ 🛡️ 🔭
-#
-
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and more about web dev
@@ -19,12 +18,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love paint 🎨 but no time to do (is awesome)
-#
+---
 
 ## 🚀 Coding
 <br>
 
-#
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -49,10 +47,11 @@
 <br/>
 <br/>
  
-#
+---
 
 ## Contact
-#
+<br/>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-be5542?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosloaeza100598@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-de-jesus-gutierrez-loaeza-86841318a/)
 
