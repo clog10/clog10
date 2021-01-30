@@ -8,7 +8,6 @@
 <img src="https://github.com/clog10/clog10/blob/main/looney-tunes-bugs-bunny-rabbit-tuxedo-wallpaper-preview.jpg">
 
 ## 🖥️ Jr Developer ⚔️ 🛡️ 🔭
----
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and more about web dev
@@ -47,6 +46,13 @@
 <br/>
 <br/>
  
+---
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 ---
 
 ## Contact
