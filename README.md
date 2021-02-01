@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on my knowledge 🧠
 - 🌱 I’m currently learning Python and more about web dev
 - 👯 I’m looking to collaborate on AI
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about data science :bar_chart:, Machine learnig :robot:
+- 🤔 I’m looking for help with Data Science :bar_chart:, Machine learnig :robot:
+- 💬 Ask me about ...
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love paint 🎨 but no time to do (is awesome)
 ---
