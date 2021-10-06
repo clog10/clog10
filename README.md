@@ -71,7 +71,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [POO](https://dev.to/clog10/poo-2je7)
 <!-- BLOG-POST-LIST:END -->
 
